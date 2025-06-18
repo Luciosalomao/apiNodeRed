@@ -1,6 +1,8 @@
-node_modules/
-flows_cred.json
-.env
-*.log
-*.tmp
-*.bak
+# Ignorar tudo por padrão
+*
+
+# Exceto
+!flows.json
+!settings.js
+!package.json
+!README.md
