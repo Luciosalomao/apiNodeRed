@@ -1,0 +1,3569 @@
+[
+    {
+        "id": "149e97013b047cf8",
+        "type": "tab",
+        "label": "Aula-01",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "16e9efe649bea34e",
+        "type": "tab",
+        "label": "Cfb Cursos",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "11e8ede5abed2937",
+        "type": "tab",
+        "label": "Mensagem",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "51543b0617f076c0",
+        "type": "tab",
+        "label": "switch",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "58519785b706f224",
+        "type": "tab",
+        "label": "Delay",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b78e432eb0494f16",
+        "type": "tab",
+        "label": "trigger",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e501216cc6efeadc",
+        "type": "tab",
+        "label": "http",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "a98d876da34dee48",
+        "type": "tab",
+        "label": "Aula14",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e2acdcce04c74984",
+        "type": "tab",
+        "label": "Aula15",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "defdc2959b01f160",
+        "type": "tab",
+        "label": "Aula16",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e9e0eb55286f9b38",
+        "type": "tab",
+        "label": "Aula17",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6576ca94ded079b6",
+        "type": "tab",
+        "label": "Aula18",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "02febcf42d14f642",
+        "type": "tab",
+        "label": "Aula19",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "885d9c43421add98",
+        "type": "tab",
+        "label": "Aula20",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "392a048197daa910",
+        "type": "tab",
+        "label": "Aula21",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "cebbfb39fab0ac20",
+        "type": "tab",
+        "label": "Aula22",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "93b8e13b0e308548",
+        "type": "tab",
+        "label": "Aula23",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1a3ab1b4c0e64939",
+        "type": "tab",
+        "label": "Aula24",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "a6b8af4d0f60a1cf",
+        "type": "tab",
+        "label": "Aula25",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "222d192e32c83bd5",
+        "type": "tab",
+        "label": "Aula26-27-28",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6bebdb76e4632940",
+        "type": "tab",
+        "label": "Aula29",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4fdc6f19623d9447",
+        "type": "tab",
+        "label": "projeto",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "2892dd17678bb738",
+        "type": "tab",
+        "label": "API",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "32791eb0f38005dc",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "projetodb",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "046a69a2972b0e1e",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#0fbbc4",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#0fbbc4",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0fbbc4",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#30e6ef",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0fbbc4",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "f07b2a7e6a07d1ca",
+        "type": "ui_tab",
+        "name": "CFB Cursos",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "6d38242b52efc00f",
+        "type": "ui_group",
+        "name": "Cursos",
+        "tab": "f07b2a7e6a07d1ca",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "5f889eb1c8b9b4af",
+        "type": "ui_tab",
+        "name": "Gráficos",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "319dcc47d56c19a9",
+        "type": "ui_group",
+        "name": "gráfico1",
+        "tab": "5f889eb1c8b9b4af",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d8c4752e80f3fc45",
+        "type": "ui_group",
+        "name": "grafico2",
+        "tab": "5f889eb1c8b9b4af",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "cb33f906ed5017f8",
+        "type": "ui_tab",
+        "name": "Aula29",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "28bbd5f266ac50fd",
+        "type": "ui_group",
+        "name": "Peças boas",
+        "tab": "cb33f906ed5017f8",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d2c2c55e3089f6f5",
+        "type": "ui_group",
+        "name": "Peças ruins",
+        "tab": "cb33f906ed5017f8",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4791d7906a4ec3db",
+        "type": "ui_group",
+        "name": "Controles",
+        "tab": "cb33f906ed5017f8",
+        "order": 3,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6bc9db8103887a85",
+        "type": "http in",
+        "z": "149e97013b047cf8",
+        "name": "",
+        "url": "/pessoa",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 100,
+        "wires": [
+            [
+                "44fa912d4b1ca019",
+                "d2087f917bfd9484"
+            ]
+        ]
+    },
+    {
+        "id": "44fa912d4b1ca019",
+        "type": "debug",
+        "z": "149e97013b047cf8",
+        "name": "msg.playload",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload.nome",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 430,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "92f341cd1bbc7771",
+        "type": "http response",
+        "z": "149e97013b047cf8",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 470,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "d2087f917bfd9484",
+        "type": "template",
+        "z": "149e97013b047cf8",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "Olá!: {{payload.nome}}",
+        "output": "str",
+        "x": 280,
+        "y": 160,
+        "wires": [
+            [
+                "92f341cd1bbc7771"
+            ]
+        ]
+    },
+    {
+        "id": "1686ee5efd145f36",
+        "type": "inject",
+        "z": "16e9efe649bea34e",
+        "name": "entrada",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 110,
+        "y": 140,
+        "wires": [
+            [
+                "34c841d305ca0405"
+            ]
+        ]
+    },
+    {
+        "id": "34c841d305ca0405",
+        "type": "function",
+        "z": "16e9efe649bea34e",
+        "name": "function 1",
+        "func": "msg.payload = Math.random()*30;\nif(msg.payload <=10){\n    return [msg,null,null]\n} else if(msg.payload > 10 && msg.payload <= 20){\n    return [null,msg,null]\n} else {\n    return [null,null,msg] \n}\n",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 160,
+        "wires": [
+            [
+                "36f1d18d57d17ae8"
+            ],
+            [
+                "8b2e86eeb04c15f8"
+            ],
+            [
+                "ddbc68ea8cf652f3"
+            ]
+        ]
+    },
+    {
+        "id": "36f1d18d57d17ae8",
+        "type": "debug",
+        "z": "16e9efe649bea34e",
+        "name": "s1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 530,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "8b2e86eeb04c15f8",
+        "type": "debug",
+        "z": "16e9efe649bea34e",
+        "name": "s2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 530,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "ddbc68ea8cf652f3",
+        "type": "debug",
+        "z": "16e9efe649bea34e",
+        "name": "s3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 530,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "1f2bb9199328ac51",
+        "type": "inject",
+        "z": "11e8ede5abed2937",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 160,
+        "y": 80,
+        "wires": [
+            [
+                "3088d405eca56a82"
+            ]
+        ]
+    },
+    {
+        "id": "d22c27758f37986a",
+        "type": "debug",
+        "z": "11e8ede5abed2937",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "3088d405eca56a82",
+        "type": "function",
+        "z": "11e8ede5abed2937",
+        "name": "function 2",
+        "func": "var obj={\n    \"nome\":\"Lucio\",\n    \"profissao\":\"DEV\",\n    \"celular\":[\"(27)99991-7070\",\"(73)88954-7171\"] \n}\nmsg.payload = obj;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 160,
+        "wires": [
+            [
+                "d22c27758f37986a"
+            ]
+        ]
+    },
+    {
+        "id": "b16d135a8b9bbfd8",
+        "type": "inject",
+        "z": "51543b0617f076c0",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 200,
+        "y": 420,
+        "wires": [
+            [
+                "64760e081c5b55b9"
+            ]
+        ]
+    },
+    {
+        "id": "edce0f6a069ecd06",
+        "type": "switch",
+        "z": "51543b0617f076c0",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "10",
+                "vt": "num"
+            },
+            {
+                "t": "btwn",
+                "v": "10",
+                "vt": "num",
+                "v2": "20",
+                "v2t": "num"
+            },
+            {
+                "t": "gt",
+                "v": "20",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 170,
+        "y": 180,
+        "wires": [
+            [
+                "118a16711049275c"
+            ],
+            [
+                "78f2ea4dda6f0aa3"
+            ],
+            [
+                "2c6305649dad4467"
+            ]
+        ]
+    },
+    {
+        "id": "a01703644c145a84",
+        "type": "debug",
+        "z": "51543b0617f076c0",
+        "name": "saida1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 670,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "da11dd1d5125cb72",
+        "type": "debug",
+        "z": "51543b0617f076c0",
+        "name": "saida2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 670,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "fdc9231a7f26d1c5",
+        "type": "debug",
+        "z": "51543b0617f076c0",
+        "name": "saida3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 670,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "118a16711049275c",
+        "type": "change",
+        "z": "51543b0617f076c0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Reprovado",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 80,
+        "wires": [
+            [
+                "ac2e8b1dc7e4feca"
+            ]
+        ]
+    },
+    {
+        "id": "78f2ea4dda6f0aa3",
+        "type": "change",
+        "z": "51543b0617f076c0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Recuperação",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 350,
+        "y": 180,
+        "wires": [
+            [
+                "ac2e8b1dc7e4feca"
+            ]
+        ]
+    },
+    {
+        "id": "2c6305649dad4467",
+        "type": "change",
+        "z": "51543b0617f076c0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Aprovado",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 260,
+        "wires": [
+            [
+                "ac2e8b1dc7e4feca"
+            ]
+        ]
+    },
+    {
+        "id": "ac2e8b1dc7e4feca",
+        "type": "template",
+        "z": "51543b0617f076c0",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "Resultado: {{payload}} ",
+        "output": "str",
+        "x": 540,
+        "y": 180,
+        "wires": [
+            [
+                "da11dd1d5125cb72"
+            ]
+        ]
+    },
+    {
+        "id": "64760e081c5b55b9",
+        "type": "function",
+        "z": "51543b0617f076c0",
+        "name": "function 3",
+        "func": "msg.payload = Math.random()*100\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 140,
+        "y": 300,
+        "wires": [
+            [
+                "edce0f6a069ecd06"
+            ]
+        ]
+    },
+    {
+        "id": "0fa6c7209a5c8679",
+        "type": "inject",
+        "z": "58519785b706f224",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Mensagem do delay 3s",
+        "payloadType": "str",
+        "x": 160,
+        "y": 80,
+        "wires": [
+            [
+                "e7109e70721c4a7a",
+                "61323ef235984643"
+            ]
+        ]
+    },
+    {
+        "id": "034ca8253b4ece25",
+        "type": "debug",
+        "z": "58519785b706f224",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 620,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "e7109e70721c4a7a",
+        "type": "delay",
+        "z": "58519785b706f224",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "3",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 400,
+        "y": 140,
+        "wires": [
+            [
+                "034ca8253b4ece25"
+            ]
+        ]
+    },
+    {
+        "id": "d99ec8344b7bda38",
+        "type": "debug",
+        "z": "58519785b706f224",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "topic",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 620,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "61323ef235984643",
+        "type": "function",
+        "z": "58519785b706f224",
+        "name": "function 4",
+        "func": "msg.topic = 'Mensagem inicial'\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 40,
+        "wires": [
+            [
+                "d99ec8344b7bda38"
+            ]
+        ]
+    },
+    {
+        "id": "61c5e12bc810cdec",
+        "type": "inject",
+        "z": "b78e432eb0494f16",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "2af29006ce7f1b30"
+            ]
+        ]
+    },
+    {
+        "id": "66c99e1510d84d84",
+        "type": "debug",
+        "z": "b78e432eb0494f16",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "2af29006ce7f1b30",
+        "type": "trigger",
+        "z": "b78e432eb0494f16",
+        "name": "",
+        "op1": "1",
+        "op2": "0",
+        "op1type": "str",
+        "op2type": "str",
+        "duration": "-1",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "true",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 490,
+        "y": 140,
+        "wires": [
+            [
+                "66c99e1510d84d84"
+            ]
+        ]
+    },
+    {
+        "id": "1975db53cededd35",
+        "type": "inject",
+        "z": "b78e432eb0494f16",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 160,
+        "wires": [
+            [
+                "2af29006ce7f1b30"
+            ]
+        ]
+    },
+    {
+        "id": "7673ea385753ca17",
+        "type": "inject",
+        "z": "b78e432eb0494f16",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 240,
+        "wires": [
+            [
+                "2af29006ce7f1b30"
+            ]
+        ]
+    },
+    {
+        "id": "41eb3969c0b6788d",
+        "type": "http in",
+        "z": "e501216cc6efeadc",
+        "name": "",
+        "url": "/teste",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 200,
+        "y": 80,
+        "wires": [
+            [
+                "55d9b84fad308345"
+            ]
+        ]
+    },
+    {
+        "id": "76ed9087f5f2c00e",
+        "type": "http response",
+        "z": "e501216cc6efeadc",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 650,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "791ff6d247e7a954",
+        "type": "template",
+        "z": "e501216cc6efeadc",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Título da Página</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            margin: 20px;\n            background-color: #f2f2f2;\n        }\n        header, footer {\n            background-color: #0044cc;\n            color: white;\n            padding: 10px;\n            text-align: center;\n        }\n        main {\n            background-color: white;\n            padding: 20px;\n        }\n    </style>\n</head>\n<body>\n    <header>\n        <h1>Curso Node-Red</h1>\n    </header>\n\n    <main>\n        <h2>Bem-vindo!</h2>\n        <p>Esta é uma estrutura HTML básica para começar seu projeto.</p>\n        <h2>{{payload}}</h2>\n    </main>\n\n    <footer>\n        <p>&copy; 2025 - luciosalomao</p>\n    </footer>\n</body>\n</html>\n",
+        "output": "str",
+        "x": 520,
+        "y": 160,
+        "wires": [
+            [
+                "76ed9087f5f2c00e"
+            ]
+        ]
+    },
+    {
+        "id": "55d9b84fad308345",
+        "type": "function",
+        "z": "e501216cc6efeadc",
+        "name": "function 5",
+        "func": "msg.payload = 'Lucio Salomão'\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 320,
+        "y": 160,
+        "wires": [
+            [
+                "791ff6d247e7a954"
+            ]
+        ]
+    },
+    {
+        "id": "751204ef953d2791",
+        "type": "http in",
+        "z": "a98d876da34dee48",
+        "name": "",
+        "url": "/canal",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 100,
+        "wires": [
+            [
+                "f0a6942cc09b4dad"
+            ]
+        ]
+    },
+    {
+        "id": "f43be539438a4d57",
+        "type": "http response",
+        "z": "a98d876da34dee48",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 730,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "873a24922bf9044b",
+        "type": "template",
+        "z": "a98d876da34dee48",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Título da Página</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            margin: 20px;\n            background-color: #f2f2f2;\n        }\n        header, footer {\n            background-color: #0044cc;\n            color: white;\n            padding: 10px;\n            text-align: center;\n        }\n        main {\n            background-color: white;\n            padding: 20px;\n        }\n    </style>\n</head>\n<body>\n    <header>\n        <h1>Curso Node-Red</h1>\n    </header>\n\n    <main>\n        <h2>Bem-vindo!</h2>\n        <p>Esta é uma estrutura HTML básica para começar seu projeto.</p>\n        <h2>{{payload}}</h2>\n    </main>\n\n    <footer>\n        <p>&copy; 2025 - luciosalomao</p>\n    </footer>\n</body>\n</html>\n",
+        "output": "str",
+        "x": 520,
+        "y": 180,
+        "wires": [
+            [
+                "f43be539438a4d57"
+            ]
+        ]
+    },
+    {
+        "id": "f0a6942cc09b4dad",
+        "type": "function",
+        "z": "a98d876da34dee48",
+        "name": "function 6",
+        "func": "msg.payload = msg.req.query.curso;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 180,
+        "wires": [
+            [
+                "873a24922bf9044b"
+            ]
+        ]
+    },
+    {
+        "id": "28e82f709474f68f",
+        "type": "http in",
+        "z": "e2acdcce04c74984",
+        "name": "",
+        "url": "/novo/:nome",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 200,
+        "y": 80,
+        "wires": [
+            [
+                "38277490a6273e7d"
+            ]
+        ]
+    },
+    {
+        "id": "b37f936b0e77a48f",
+        "type": "http response",
+        "z": "e2acdcce04c74984",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 670,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "38277490a6273e7d",
+        "type": "template",
+        "z": "e2acdcce04c74984",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Aula 15</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            margin: 20px;\n            background-color: #f2f2f2;\n        }\n        header, footer {\n            background-color: #0044cc;\n            color: white;\n            padding: 10px;\n            text-align: center;\n        }\n        main {\n            background-color: white;\n            padding: 20px;\n        }\n    </style>\n</head>\n<body>\n    <header>\n        <h1>Aula 15 - Node-Red</h1>\n    </header>\n\n    <main>\n        <h2>Bem-vindo!</h2>\n        <p>Esta é uma estrutura HTML básica para começar seu projeto.</p>\n        <h3>{{req.params.nome}}</h3>\n    </main>\n\n    <footer>\n        <p>&copy; 2025 - luciosalomao.com.br</p>\n    </footer>\n</body>\n</html>\n",
+        "output": "str",
+        "x": 440,
+        "y": 100,
+        "wires": [
+            [
+                "b37f936b0e77a48f"
+            ]
+        ]
+    },
+    {
+        "id": "b17fa7401d3020cf",
+        "type": "inject",
+        "z": "defdc2959b01f160",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 160,
+        "y": 60,
+        "wires": [
+            [
+                "dca21db5fe7d3f76"
+            ]
+        ]
+    },
+    {
+        "id": "dca21db5fe7d3f76",
+        "type": "random",
+        "z": "defdc2959b01f160",
+        "name": "",
+        "low": 1,
+        "high": 10,
+        "inte": "true",
+        "property": "payload",
+        "x": 400,
+        "y": 60,
+        "wires": [
+            [
+                "e646533605ce1d73"
+            ]
+        ]
+    },
+    {
+        "id": "0236afedec1415d5",
+        "type": "http in",
+        "z": "defdc2959b01f160",
+        "name": "",
+        "url": "/aula16",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 140,
+        "wires": [
+            [
+                "cd4932590f1b7d05"
+            ]
+        ]
+    },
+    {
+        "id": "382230d2f35e1379",
+        "type": "template",
+        "z": "defdc2959b01f160",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "Número: {{payload}} !",
+        "output": "str",
+        "x": 520,
+        "y": 140,
+        "wires": [
+            [
+                "46c3bc623c91a841"
+            ]
+        ]
+    },
+    {
+        "id": "46c3bc623c91a841",
+        "type": "http response",
+        "z": "defdc2959b01f160",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 710,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "2d4e796052093e98",
+        "type": "debug",
+        "z": "defdc2959b01f160",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "e646533605ce1d73",
+        "type": "change",
+        "z": "defdc2959b01f160",
+        "name": "Armazenamento",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 580,
+        "y": 60,
+        "wires": [
+            [
+                "2d4e796052093e98"
+            ]
+        ]
+    },
+    {
+        "id": "cd4932590f1b7d05",
+        "type": "change",
+        "z": "defdc2959b01f160",
+        "name": "Recuperação",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 310,
+        "y": 140,
+        "wires": [
+            [
+                "382230d2f35e1379"
+            ]
+        ]
+    },
+    {
+        "id": "85bd2356da08bbc0",
+        "type": "http in",
+        "z": "e9e0eb55286f9b38",
+        "name": "",
+        "url": "/aula17",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 80,
+        "wires": [
+            [
+                "687673c524776bb3"
+            ]
+        ]
+    },
+    {
+        "id": "26d43f04c67e954f",
+        "type": "template",
+        "z": "e9e0eb55286f9b38",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "{\"User Agent\": \"{{req.headers.user-agent}}\" }",
+        "output": "str",
+        "x": 540,
+        "y": 100,
+        "wires": [
+            [
+                "78d31666c31e1143"
+            ]
+        ]
+    },
+    {
+        "id": "78d31666c31e1143",
+        "type": "http response",
+        "z": "e9e0eb55286f9b38",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 730,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "687673c524776bb3",
+        "type": "change",
+        "z": "e9e0eb55286f9b38",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "headers",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "json"
+            },
+            {
+                "t": "set",
+                "p": "headers.content-type",
+                "pt": "msg",
+                "to": "application/json",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "headers.access-controll-allow-origim",
+                "pt": "msg",
+                "to": "*",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 120,
+        "wires": [
+            [
+                "26d43f04c67e954f"
+            ]
+        ]
+    },
+    {
+        "id": "6788cd8e0576946a",
+        "type": "http in",
+        "z": "6576ca94ded079b6",
+        "name": "",
+        "url": "/api-json",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 150,
+        "y": 120,
+        "wires": [
+            [
+                "5cc3f380c62c8786"
+            ]
+        ]
+    },
+    {
+        "id": "802304858355d957",
+        "type": "http response",
+        "z": "6576ca94ded079b6",
+        "name": "",
+        "statusCode": "",
+        "headers": {
+            "content-type": "application/json"
+        },
+        "x": 670,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "5cc3f380c62c8786",
+        "type": "template",
+        "z": "6576ca94ded079b6",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "{\n    \"canal\":\"CFB Cursos\",\n    \"curso\":\"Node-Red\",\n    \"ano\":2025,\n    \"cursos\":[\n        \"Node\",\n        \"React\",\n        \"React-Native\",\n        \"Node-Red\"\n    ]\n}",
+        "output": "str",
+        "x": 400,
+        "y": 120,
+        "wires": [
+            [
+                "802304858355d957",
+                "3adaa38a47973ff6"
+            ]
+        ]
+    },
+    {
+        "id": "417e284cbea45c63",
+        "type": "debug",
+        "z": "6576ca94ded079b6",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload.curso",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 600,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "3adaa38a47973ff6",
+        "type": "json",
+        "z": "6576ca94ded079b6",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 450,
+        "y": 200,
+        "wires": [
+            [
+                "417e284cbea45c63"
+            ]
+        ]
+    },
+    {
+        "id": "9bd76072808e71a1",
+        "type": "http in",
+        "z": "02febcf42d14f642",
+        "name": "",
+        "url": "/api-logo-png",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 150,
+        "y": 100,
+        "wires": [
+            [
+                "d56add6ca5c79b51"
+            ]
+        ]
+    },
+    {
+        "id": "b69bed264609d044",
+        "type": "http response",
+        "z": "02febcf42d14f642",
+        "name": "",
+        "statusCode": "",
+        "headers": {
+            "content-type": "image/png"
+        },
+        "x": 750,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "d56add6ca5c79b51",
+        "type": "file in",
+        "z": "02febcf42d14f642",
+        "name": "",
+        "filename": "C:/Users/lucio.souza/Pictures/avatar.png",
+        "filenameType": "str",
+        "format": "",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 460,
+        "y": 60,
+        "wires": [
+            [
+                "b69bed264609d044"
+            ]
+        ]
+    },
+    {
+        "id": "e52237608ec6d5ac",
+        "type": "http in",
+        "z": "02febcf42d14f642",
+        "name": "",
+        "url": "/api-logo-zip",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 180,
+        "wires": [
+            [
+                "4dadb93f0704eaf9"
+            ]
+        ]
+    },
+    {
+        "id": "f8db8857c0028f95",
+        "type": "http response",
+        "z": "02febcf42d14f642",
+        "name": "",
+        "statusCode": "",
+        "headers": {
+            "content-type": "application/zip"
+        },
+        "x": 750,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "4dadb93f0704eaf9",
+        "type": "file in",
+        "z": "02febcf42d14f642",
+        "name": "",
+        "filename": "C:/Users/lucio.souza/Pictures/avatar.zip",
+        "filenameType": "str",
+        "format": "",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 460,
+        "y": 140,
+        "wires": [
+            [
+                "f8db8857c0028f95"
+            ]
+        ]
+    },
+    {
+        "id": "725d459dc55b4573",
+        "type": "http in",
+        "z": "885d9c43421add98",
+        "name": "",
+        "url": "/post-form",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 160,
+        "y": 80,
+        "wires": [
+            [
+                "ed234a72f05718a8"
+            ]
+        ]
+    },
+    {
+        "id": "c5119767a9fd74b3",
+        "type": "http response",
+        "z": "885d9c43421add98",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 670,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "ed234a72f05718a8",
+        "type": "template",
+        "z": "885d9c43421add98",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Curso de Node-Red Aula 20</title>\n</head>\n<body>\n    <h1>Olá {{payload.nome}}</h1> \n</body>\n</html>",
+        "output": "str",
+        "x": 400,
+        "y": 80,
+        "wires": [
+            [
+                "c5119767a9fd74b3"
+            ]
+        ]
+    },
+    {
+        "id": "f637988aa2202425",
+        "type": "http in",
+        "z": "392a048197daa910",
+        "name": "",
+        "url": "/api-cookies",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 100,
+        "y": 100,
+        "wires": [
+            [
+                "f2954a8cfbbef6dc"
+            ]
+        ]
+    },
+    {
+        "id": "86e9a756ec72240b",
+        "type": "http response",
+        "z": "392a048197daa910",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 750,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "f2954a8cfbbef6dc",
+        "type": "function",
+        "z": "392a048197daa910",
+        "name": "function 7",
+        "func": "msg.payload=JSON.stringify(msg.req.cookies,null,4);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 40,
+        "wires": [
+            [
+                "d81f085e9a24da1f"
+            ]
+        ]
+    },
+    {
+        "id": "a07240a1e73a2fa5",
+        "type": "http in",
+        "z": "392a048197daa910",
+        "name": "",
+        "url": "/api-cookies/add",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 200,
+        "wires": [
+            [
+                "236e2bdede5213a2"
+            ]
+        ]
+    },
+    {
+        "id": "a5a4697cccdbedd4",
+        "type": "change",
+        "z": "392a048197daa910",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "statusCode",
+                "pt": "msg",
+                "to": "302",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "headers",
+                "pt": "msg",
+                "to": "{}",
+                "tot": "json"
+            },
+            {
+                "t": "set",
+                "p": "headers.location",
+                "pt": "msg",
+                "to": "/api-cookies",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 140,
+        "wires": [
+            [
+                "86e9a756ec72240b"
+            ]
+        ]
+    },
+    {
+        "id": "d81f085e9a24da1f",
+        "type": "template",
+        "z": "392a048197daa910",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html>\n    <head>\n        <title>Curso de Node-Read Aula 21</title>\n    </head>\n    <body>\n        <h1>Cookies</h1>\n        <a href=\"/api-cookies/add\">Adicionar</a><br>\n        <pre>{{payload}}</pre>\n    </body>\n</html>",
+        "output": "str",
+        "x": 520,
+        "y": 40,
+        "wires": [
+            [
+                "86e9a756ec72240b"
+            ]
+        ]
+    },
+    {
+        "id": "236e2bdede5213a2",
+        "type": "function",
+        "z": "392a048197daa910",
+        "name": "function 8",
+        "func": "msg.cookies = {};\nmsg.cookies[\"cfbcursos_\" + (Math.floor(Math.random()*1000))] = Date.now();\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 140,
+        "wires": [
+            [
+                "a5a4697cccdbedd4"
+            ]
+        ]
+    },
+    {
+        "id": "663c74a54e821f3b",
+        "type": "inject",
+        "z": "cebbfb39fab0ac20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 140,
+        "y": 80,
+        "wires": [
+            [
+                "75c7267030f9d185"
+            ]
+        ]
+    },
+    {
+        "id": "75c7267030f9d185",
+        "type": "http request",
+        "z": "cebbfb39fab0ac20",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://pedrocanario-es.portaltp.com.br/",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 360,
+        "y": 80,
+        "wires": [
+            [
+                "c2a2c5cac9487bc2"
+            ]
+        ]
+    },
+    {
+        "id": "c2a2c5cac9487bc2",
+        "type": "html",
+        "z": "cebbfb39fab0ac20",
+        "name": "",
+        "property": "",
+        "outproperty": "",
+        "tag": ".pull-right",
+        "ret": "text",
+        "as": "single",
+        "chr": "_",
+        "x": 560,
+        "y": 80,
+        "wires": [
+            [
+                "e5fa124c0566d6b1"
+            ]
+        ]
+    },
+    {
+        "id": "e5fa124c0566d6b1",
+        "type": "debug",
+        "z": "cebbfb39fab0ac20",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload[5]",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 740,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "a356b1be65c21d66",
+        "type": "inject",
+        "z": "93b8e13b0e308548",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "https://pedrocanario-es.portaltp.com.br/",
+        "payloadType": "str",
+        "x": 70,
+        "y": 40,
+        "wires": [
+            [
+                "d0db5890687603b0"
+            ]
+        ]
+    },
+    {
+        "id": "d0db5890687603b0",
+        "type": "change",
+        "z": "93b8e13b0e308548",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 300,
+        "y": 100,
+        "wires": [
+            [
+                "078a21e761c5fe24"
+            ]
+        ]
+    },
+    {
+        "id": "078a21e761c5fe24",
+        "type": "http request",
+        "z": "93b8e13b0e308548",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 540,
+        "y": 40,
+        "wires": [
+            [
+                "de81266ea23e0109"
+            ]
+        ]
+    },
+    {
+        "id": "de81266ea23e0109",
+        "type": "debug",
+        "z": "93b8e13b0e308548",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 720,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "090b100e6090e1ec",
+        "type": "inject",
+        "z": "1a3ab1b4c0e64939",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "lucio salomao",
+        "payloadType": "str",
+        "x": 150,
+        "y": 60,
+        "wires": [
+            [
+                "4db27b2dd8f2d23f"
+            ]
+        ]
+    },
+    {
+        "id": "88cdf907110b79ae",
+        "type": "debug",
+        "z": "1a3ab1b4c0e64939",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 680,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "4db27b2dd8f2d23f",
+        "type": "split",
+        "z": "1a3ab1b4c0e64939",
+        "name": "",
+        "splt": " ",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "property": "payload",
+        "x": 410,
+        "y": 60,
+        "wires": [
+            [
+                "88cdf907110b79ae"
+            ]
+        ]
+    },
+    {
+        "id": "b55dcc16188f6b85",
+        "type": "join",
+        "z": "1a3ab1b4c0e64939",
+        "name": "",
+        "mode": "custom",
+        "build": "string",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "useparts": false,
+        "accumulate": false,
+        "timeout": "",
+        "count": "3",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "",
+        "reduceFixup": "",
+        "x": 410,
+        "y": 220,
+        "wires": [
+            [
+                "f9361595457a9930"
+            ]
+        ]
+    },
+    {
+        "id": "715cc3f23d4d017a",
+        "type": "inject",
+        "z": "1a3ab1b4c0e64939",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "1",
+        "payload": "Olá",
+        "payloadType": "str",
+        "x": 90,
+        "y": 220,
+        "wires": [
+            [
+                "b55dcc16188f6b85"
+            ]
+        ]
+    },
+    {
+        "id": "f9361595457a9930",
+        "type": "debug",
+        "z": "1a3ab1b4c0e64939",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 680,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "b81b5e233458d564",
+        "type": "inject",
+        "z": "1a3ab1b4c0e64939",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "2",
+        "payload": "Brasil",
+        "payloadType": "str",
+        "x": 90,
+        "y": 280,
+        "wires": [
+            [
+                "b55dcc16188f6b85"
+            ]
+        ]
+    },
+    {
+        "id": "568ded929d2a465f",
+        "type": "inject",
+        "z": "1a3ab1b4c0e64939",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "3",
+        "payload": "Cheguei",
+        "payloadType": "str",
+        "x": 100,
+        "y": 360,
+        "wires": [
+            [
+                "b55dcc16188f6b85"
+            ]
+        ]
+    },
+    {
+        "id": "3976d9879849ed72",
+        "type": "inject",
+        "z": "a6b8af4d0f60a1cf",
+        "name": "Select",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "SELECT *FROM aluno",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 80,
+        "wires": [
+            [
+                "dfe4c2f0a0098f0c"
+            ]
+        ]
+    },
+    {
+        "id": "08e4d8b12b432bf6",
+        "type": "debug",
+        "z": "a6b8af4d0f60a1cf",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 740,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "dfe4c2f0a0098f0c",
+        "type": "mysql",
+        "z": "a6b8af4d0f60a1cf",
+        "mydb": "32791eb0f38005dc",
+        "name": "",
+        "x": 460,
+        "y": 80,
+        "wires": [
+            [
+                "08e4d8b12b432bf6"
+            ]
+        ]
+    },
+    {
+        "id": "2bc3f26b399137fe",
+        "type": "inject",
+        "z": "a6b8af4d0f60a1cf",
+        "name": "Insert",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "INSERT INTO aluno (nome) VALUES ('Martha')",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 180,
+        "wires": [
+            [
+                "dfe4c2f0a0098f0c"
+            ]
+        ]
+    },
+    {
+        "id": "e13114750ecd4c73",
+        "type": "inject",
+        "z": "a6b8af4d0f60a1cf",
+        "name": "Delete",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "DELETE from aluno WHERE nome = 'Martha'",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 260,
+        "wires": [
+            [
+                "dfe4c2f0a0098f0c"
+            ]
+        ]
+    },
+    {
+        "id": "2ec55119d3d4f555",
+        "type": "ui_button",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "group": "6d38242b52efc00f",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Node-Red",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "node-red",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 250,
+        "y": 80,
+        "wires": [
+            [
+                "3a363692639a6c82"
+            ]
+        ]
+    },
+    {
+        "id": "a8d297ad322ff307",
+        "type": "ui_button",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "group": "6d38242b52efc00f",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Javascript",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "javascript",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 240,
+        "y": 120,
+        "wires": [
+            [
+                "3a363692639a6c82"
+            ]
+        ]
+    },
+    {
+        "id": "3a363692639a6c82",
+        "type": "ui_text",
+        "z": "222d192e32c83bd5",
+        "group": "6d38242b52efc00f",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 450,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "27da20e8aca8b745",
+        "type": "ui_text_input",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "label": "Digite seu nome",
+        "tooltip": "",
+        "group": "6d38242b52efc00f",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 420,
+        "y": 180,
+        "wires": [
+            [
+                "3a363692639a6c82"
+            ]
+        ]
+    },
+    {
+        "id": "2cb821b92822ee21",
+        "type": "ui_button",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "group": "6d38242b52efc00f",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Enviar",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "payload",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 230,
+        "y": 180,
+        "wires": [
+            [
+                "27da20e8aca8b745"
+            ]
+        ]
+    },
+    {
+        "id": "faaacc974a4ae545",
+        "type": "ui_gauge",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "group": "319dcc47d56c19a9",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Velocimetro",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "200",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 610,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "8b72b24cca90fad5",
+        "type": "ui_gauge",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "group": "d8c4752e80f3fc45",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": 10,
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 310,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "1d2655c2c73cc9ff",
+        "type": "ui_slider",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "label": "Acelerador",
+        "tooltip": "",
+        "group": "319dcc47d56c19a9",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "200",
+        "step": 1,
+        "className": "",
+        "x": 410,
+        "y": 300,
+        "wires": [
+            [
+                "faaacc974a4ae545"
+            ]
+        ]
+    },
+    {
+        "id": "f831172008ddf70e",
+        "type": "random",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "low": "0",
+        "high": "200",
+        "inte": "true",
+        "property": "payload",
+        "x": 240,
+        "y": 300,
+        "wires": [
+            [
+                "1d2655c2c73cc9ff"
+            ]
+        ]
+    },
+    {
+        "id": "291d5cea65822088",
+        "type": "inject",
+        "z": "222d192e32c83bd5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 240,
+        "wires": [
+            [
+                "f831172008ddf70e"
+            ]
+        ]
+    },
+    {
+        "id": "358adab187db992a",
+        "type": "inject",
+        "z": "6bebdb76e4632940",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 60,
+        "wires": [
+            [
+                "ef037f3d6310924e"
+            ]
+        ]
+    },
+    {
+        "id": "604c172e9ce2ed38",
+        "type": "ui_gauge",
+        "z": "6bebdb76e4632940",
+        "name": "",
+        "group": "d2c2c55e3089f6f5",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Peças ruins",
+        "label": "units",
+        "format": "{{percBuins}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 890,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "a49060d69ad1e0ed",
+        "type": "ui_gauge",
+        "z": "6bebdb76e4632940",
+        "name": "",
+        "group": "28bbd5f266ac50fd",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Peças Boas",
+        "label": "units",
+        "format": "{{percBoas}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 890,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "ef037f3d6310924e",
+        "type": "random",
+        "z": "6bebdb76e4632940",
+        "name": "",
+        "low": "0",
+        "high": "99",
+        "inte": "true",
+        "property": "payload",
+        "x": 360,
+        "y": 40,
+        "wires": [
+            [
+                "ea730f703aca8521"
+            ]
+        ]
+    },
+    {
+        "id": "ea730f703aca8521",
+        "type": "switch",
+        "z": "6bebdb76e4632940",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "10",
+                "vt": "num"
+            },
+            {
+                "t": "gte",
+                "v": "10",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 430,
+        "y": 80,
+        "wires": [
+            [
+                "951c747ad78effbb"
+            ],
+            [
+                "c9151ce95a066105"
+            ]
+        ]
+    },
+    {
+        "id": "c9151ce95a066105",
+        "type": "function",
+        "z": "6bebdb76e4632940",
+        "name": "Peças boas",
+        "func": "var boas = flow.get(\"boas\")||0;\nboas++;\nflow.set(\"boas\",boas);\nmsg.boas=flow.get(\"boas\");\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 160,
+        "wires": [
+            [
+                "d8f1225dec2d9e0b",
+                "509e797a19419972"
+            ]
+        ]
+    },
+    {
+        "id": "951c747ad78effbb",
+        "type": "function",
+        "z": "6bebdb76e4632940",
+        "name": "Peças ruins",
+        "func": "var ruins = flow.get(\"ruins\")||0;\nruins++;\nflow.set(\"ruins\",ruins);\nmsg.ruins=flow.get(\"ruins\");\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 80,
+        "wires": [
+            [
+                "d8f1225dec2d9e0b",
+                "c5a45d8596f7d626"
+            ]
+        ]
+    },
+    {
+        "id": "e16eb82ca9bb48dd",
+        "type": "function",
+        "z": "6bebdb76e4632940",
+        "name": "function 11",
+        "func": "flow.set(\"boas\",0);\nmsg.boas=flow.get(\"boas\");\nflow.set(\"ruins\",0);\nmsg.boas=flow.get(\"ruins\");\nflow.set(\"total\",0);\nmsg.total=flow.get(\"total\");\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 220,
+        "wires": [
+            [
+                "951c747ad78effbb",
+                "c9151ce95a066105"
+            ]
+        ]
+    },
+    {
+        "id": "993ff84c1f04566e",
+        "type": "ui_button",
+        "z": "6bebdb76e4632940",
+        "name": "",
+        "group": "4791d7906a4ec3db",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Reset",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 70,
+        "y": 220,
+        "wires": [
+            [
+                "e16eb82ca9bb48dd"
+            ]
+        ]
+    },
+    {
+        "id": "d8f1225dec2d9e0b",
+        "type": "function",
+        "z": "6bebdb76e4632940",
+        "name": "total",
+        "func": "var percRuins = flow.get(\"percRuins\")||0;\npercRuins = flow.get(\"ruins\")/(flow.get(\"ruins\")+flow.get(\"boas\"))*100;\nmsg.percBuins = Math.round(percRuins);\n\nvar percBoas = flow.get(\"percBoas\")||0;\npercBoas = flow.get(\"boas\")/(flow.get(\"ruins\")+flow.get(\"boas\"))*100;\nmsg.percBoas = Math.round(percBoas);\n\nvar total = flow.get(\"ruins\") + flow.get(\"boas\");\nflow.set(\"total\",total);\nmsg.total=flow.get(\"total\");\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 140,
+        "wires": [
+            [
+                "e573f955ad1c2dd1",
+                "a49060d69ad1e0ed",
+                "604c172e9ce2ed38"
+            ]
+        ]
+    },
+    {
+        "id": "e573f955ad1c2dd1",
+        "type": "ui_text",
+        "z": "6bebdb76e4632940",
+        "group": "4791d7906a4ec3db",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Total",
+        "format": "{{msg.total}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 890,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "509e797a19419972",
+        "type": "ui_text",
+        "z": "6bebdb76e4632940",
+        "group": "4791d7906a4ec3db",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Boas",
+        "format": "{{msg.boas}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 690,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "c5a45d8596f7d626",
+        "type": "ui_text",
+        "z": "6bebdb76e4632940",
+        "group": "4791d7906a4ec3db",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Ruins",
+        "format": "{{msg.ruins}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 810,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "e58e7239941e6aea",
+        "type": "http in",
+        "z": "4fdc6f19623d9447",
+        "name": "",
+        "url": "/portal/:entrada",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 40,
+        "wires": [
+            [
+                "37a0baa8cda57068"
+            ]
+        ]
+    },
+    {
+        "id": "d3f47e62b9ea5185",
+        "type": "http response",
+        "z": "4fdc6f19623d9447",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 970,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "37a0baa8cda57068",
+        "type": "template",
+        "z": "4fdc6f19623d9447",
+        "name": "css",
+        "field": "css",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "/* Reset básico */\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nhtml, body {\n  height: 100%;\n  font-family: Arial, sans-serif;\n}\n\n/* Layout principal */\nbody {\n  font-family: Arial, sans-serif;\n  background-color: #f6f9fc;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n}\n\nmain {\n  flex: 1;\n  padding: 20px;\n  background-color: #f9f9f9;\n}\n\n/* Navbar */\n.navbar {\n  background-color: #28a745;\n  padding: 10px 20px;\n  color: #28a745;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.navbar .logo {\n  font-size: 20px;\n  font-weight: bold;\n}\n\n.nav-links {\n  display: flex;\n  gap: 15px;\n}\n\n.nav-links a {\n  text-decoration: none;\n  padding: 6px 10px;\n  border-radius: 4px;\n  transition: background 0.3s, color 0.3s;\n}\n\n.nav-links a:hover {\n  background-color: #1e7e34;\n}\n\n/* Rodapé */\nfooter {\n  background-color: #333;\n  color: white;\n  text-align: center;\n  padding: 15px 10px;\n}\n\n.footer-container {\n  max-width: 1000px;\n  margin: 0 auto;\n}\n\n.form-container {\n  background-color: #fff;\n  padding: 2rem;\n  border-radius: 8px;\n  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);\n  width: 300px;\n}\n\ninput[type=\"text\"] {\n  width: 100%;\n  padding: 0.6rem;\n  border: 1px solid #ccc;\n  border-radius: 4px;\n  margin-bottom: 1rem;\n  transition: border-color 0.3s;\n}\n\ninput[type=\"text\"]:focus {\n  border-color: #007bff;\n  outline: none;\n}\n\nbutton {\n  width: 100%;\n  padding: 0.7rem;\n  background-color: #28a745;\n  color: #fff;\n  border: none;\n  border-radius: 4px;\n  font-size: 1rem;\n  cursor: pointer;\n  transition: background-color 0.3s;\n  margin-top: 0.5rem; \n}\n\nbutton:hover {\n  background-color: #1e7e34;\n}\n\n  table \n  { \n    border-collapse: collapse; \n    width: 100%; \n    margin-top: 20px; \n    background-color: #d4edda;\n    color: #155724;\n    border: 1px solid #c3e6cb;\n    padding: 20px 40px;\n    border-radius: 8px;\n    font-size: 1.0em;\n    text-align: center;\n    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }\n  \n  th { background-color: #f2f2f2; }\n\n      .mensagem {\n      background-color: #d4edda;\n      color: #155724;\n      border: 1px solid #c3e6cb;\n      padding: 20px 40px;\n      border-radius: 8px;\n      font-size: 1.5em;\n      text-align: center;\n      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);\n    }\n\n.logo-img {\n  width: 120px; /* ou o tamanho que você quiser */\n  height: auto; /* mantém a proporção */\n}",
+        "output": "str",
+        "x": 270,
+        "y": 40,
+        "wires": [
+            [
+                "dcfb46e1cb13f27d"
+            ]
+        ]
+    },
+    {
+        "id": "cb35ab98b5e7dab7",
+        "type": "template",
+        "z": "4fdc6f19623d9447",
+        "name": "adicionar",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Página Exemplo</title>\n  <style>\n    {{css}}\n  </style>\n</head>\n<body>\n\n  <header>\n    <div class=\"navbar\">\n      <div class=\"logo\" >\n        <img src=\"/luciosalomao02.png\" alt=\"Minha Logo\" class=\"logo-img\">\n      </div>\n      <div class=\"nav-links\">\n        <a href=\"http://localhost:1880/portal/home\">Home</a>\n        <a href=\"http://localhost:1880/portal/cadastrar\">Cadastrar</a>\n        <a href=\"http://localhost:1880/portal/consultar\">Consultar</a>\n      </div>\n    </div>\n  </header>\n\n  <main>\n    <section>\n      <div class=\"form-container\">\n        <form action=\"http://localhost:1880/gravar_aluno\" method=\"get\">\n          <h2>Cadastro</h2>\n          <label for=\"nome\">Nome:</label>\n          <input type=\"text\" id=\"nome\" name=\"nome\" required>\n          <button type=\"submit\" value=\"Gravar\">Gravar</button>\n        </form>\n      </div>\n    </section>\n  </main>\n\n  <footer>\n    <div class=\"footer-container\">\n      <p>&copy; 2025 luciosalomao. Todos os direitos reservados.</p>\n    </div>\n  </footer>\n\n</body>\n</html>\n",
+        "output": "str",
+        "x": 680,
+        "y": 80,
+        "wires": [
+            [
+                "d3f47e62b9ea5185"
+            ]
+        ]
+    },
+    {
+        "id": "867b3b3059a94a28",
+        "type": "template",
+        "z": "4fdc6f19623d9447",
+        "name": "consultar",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Página Exemplo</title>\n  <style>\n    {{css}}\n  </style>\n</head>\n<body>\n\n  <header>\n    <div class=\"navbar\">\n      <div class=\"logo\" >\n        <img src=\"/luciosalomao02.png\" alt=\"Minha Logo\" class=\"logo-img\">\n      </div>\n      <div class=\"nav-links\">\n        <a href=\"http://localhost:1880/portal/home\">Home</a>\n        <a href=\"http://localhost:1880/portal/cadastrar\">Cadastrar</a>\n        <a href=\"http://localhost:1880/portal/consultar\">Consultar</a>\n      </div>\n    </div>\n  </header>\n\n  <main>\n    <section>\n      <h1>Lista de Alunos</h1>\n        {{{payload}}}\n    </section>\n  </main>\n\n   <footer>\n    <div class=\"footer-container\">\n      <p>&copy; 2025 luciosalomao. Todos os direitos reservados.</p>\n    </div>\n  </footer>\n\n</body>\n</html>\n",
+        "output": "str",
+        "x": 680,
+        "y": 120,
+        "wires": [
+            [
+                "d3f47e62b9ea5185"
+            ]
+        ]
+    },
+    {
+        "id": "dcfb46e1cb13f27d",
+        "type": "switch",
+        "z": "4fdc6f19623d9447",
+        "name": "",
+        "property": "req.params.entrada",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "home",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "cadastrar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "consultar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 450,
+        "y": 40,
+        "wires": [
+            [
+                "7cd7960e97e2babf"
+            ],
+            [
+                "cb35ab98b5e7dab7"
+            ],
+            [
+                "b7bfdfa952deb356"
+            ]
+        ]
+    },
+    {
+        "id": "7cd7960e97e2babf",
+        "type": "template",
+        "z": "4fdc6f19623d9447",
+        "name": "home",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Home</title>\n  <style>\n    {{css}}\n  </style>\n</head>\n<body>\n\n  <header>\n    <div class=\"navbar\">\n      <div class=\"logo\" >\n        <img src=\"/luciosalomao02.png\" alt=\"Minha Logo\" class=\"logo-img\">\n      </div>\n      <div class=\"nav-links\">\n        <a href=\"http://localhost:1880/portal/home\">Home</a>\n        <a href=\"http://localhost:1880/portal/cadastrar\">Cadastrar</a>\n        <a href=\"http://localhost:1880/portal/consultar\">Consultar</a>\n      </div>\n    </div>\n  </header>\n\n  <main>\n    <section>\n      <h2>Bem-vindo!</h2>\n      <p>Este é o conteúdo principal da página.</p>\n    </section>\n  </main>\n\n  <footer>\n    <div class=\"footer-container\">\n      <p>&copy; 2025 luciosalomao. Todos os direitos reservados.</p>\n    </div>\n  </footer>\n\n</body>\n</html>\n",
+        "output": "str",
+        "x": 670,
+        "y": 40,
+        "wires": [
+            [
+                "d3f47e62b9ea5185"
+            ]
+        ]
+    },
+    {
+        "id": "a24ae9f060af14c5",
+        "type": "mysql",
+        "z": "4fdc6f19623d9447",
+        "mydb": "32791eb0f38005dc",
+        "name": "",
+        "x": 520,
+        "y": 240,
+        "wires": [
+            [
+                "f346096715ffeae1"
+            ]
+        ]
+    },
+    {
+        "id": "c610b234bd8538d0",
+        "type": "http in",
+        "z": "4fdc6f19623d9447",
+        "name": "",
+        "url": "/gravar_aluno",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 240,
+        "wires": [
+            [
+                "56371e17d24fc345"
+            ]
+        ]
+    },
+    {
+        "id": "56371e17d24fc345",
+        "type": "function",
+        "z": "4fdc6f19623d9447",
+        "name": "Gravar",
+        "func": "let nome = msg.req.query?.nome;\n\nif (!nome) {\n    node.error(\"Parâmetro 'nome' ausente.\");\n    return null;\n}\n\nmsg.topic = \"INSERT INTO aluno (nome) VALUES (?)\";\nmsg.payload = [nome];\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 240,
+        "wires": [
+            [
+                "a24ae9f060af14c5"
+            ]
+        ]
+    },
+    {
+        "id": "b7bfdfa952deb356",
+        "type": "function",
+        "z": "4fdc6f19623d9447",
+        "name": "Listar",
+        "func": "msg.topic = \"select *from aluno\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 190,
+        "y": 120,
+        "wires": [
+            [
+                "ff730f8a4234c807"
+            ]
+        ]
+    },
+    {
+        "id": "c53b5fcac96d0f82",
+        "type": "function",
+        "z": "4fdc6f19623d9447",
+        "name": "function 9",
+        "func": "let alunos = msg.payload;\nlet tabela = '<table border=\"1\"><tr><th>ID</th><th>Nome</th></tr>';\n\nalunos.forEach(aluno => {\n    let nome = aluno.nome || \"(sem nome)\";\n    tabela += `<tr><td>${aluno.id}</td><td>${nome}</td></tr>`;\n});\n\ntabela += '</table>';\n\nmsg.payload = tabela;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 500,
+        "y": 120,
+        "wires": [
+            [
+                "867b3b3059a94a28"
+            ]
+        ]
+    },
+    {
+        "id": "ff730f8a4234c807",
+        "type": "mysql",
+        "z": "4fdc6f19623d9447",
+        "mydb": "32791eb0f38005dc",
+        "name": "",
+        "x": 340,
+        "y": 120,
+        "wires": [
+            [
+                "c53b5fcac96d0f82"
+            ]
+        ]
+    },
+    {
+        "id": "e646753f75f6c5a5",
+        "type": "template",
+        "z": "4fdc6f19623d9447",
+        "name": "Sucesso",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n  <meta charset=\"UTF-8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n  <title>Confirmação de Cadastro</title>\n  <style>\n    {{css}}\n  </style>\n</head>\n<body>\n\n  <header>\n    <div class=\"navbar\">\n      <div class=\"logo\" >\n        <img src=\"/luciosalomao02.png\" alt=\"Minha Logo\" class=\"logo-img\">\n      </div>\n      <div class=\"nav-links\">\n        <a href=\"http://localhost:1880/portal/home\">Home</a>\n        <a href=\"http://localhost:1880/portal/cadastrar\">Cadastrar</a>\n        <a href=\"http://localhost:1880/portal/consultar\">Consultar</a>\n      </div>\n    </div>\n  </header>\n  <main>\n    <section>\n\t  <div class=\"mensagem\">\n\t\t✅ Cadastrado com sucesso!\n\t  </div>\n  </main>\n  <footer>\n    <div class=\"footer-container\">\n      <p>&copy; 2025 luciosalomao. Todos os direitos reservados.</p>\n    </div>\n  </footer>\t\n</body>\n</html>",
+        "output": "str",
+        "x": 820,
+        "y": 200,
+        "wires": [
+            [
+                "d3f47e62b9ea5185"
+            ]
+        ]
+    },
+    {
+        "id": "f346096715ffeae1",
+        "type": "template",
+        "z": "4fdc6f19623d9447",
+        "name": "css",
+        "field": "css",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "/* Reset básico */\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nhtml, body {\n  height: 100%;\n  font-family: Arial, sans-serif;\n}\n\n/* Layout principal */\nbody {\n  display: flex;\n  flex-direction: column;\n  min-height: 100vh;\n}\n\nmain {\n  flex: 1;\n  padding: 20px;\n  background-color: #f9f9f9;\n}\n\n/* Navbar */\n.navbar {\n  background-color: #999;\n  padding: 10px 20px;\n  color: #90ee90;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.navbar .logo {\n  font-size: 20px;\n  font-weight: bold;\n}\n\n.nav-links {\n  display: flex;\n  gap: 15px;\n}\n\n.nav-links a {\n  text-decoration: none;\n  padding: 6px 10px;\n  border-radius: 4px;\n  transition: background 0.3s, color 0.3s;\n}\n\n.nav-links a:hover {\n  background-color: #1e88e5;\n}\n\n/* Rodapé */\nfooter {\n  background-color: #333;\n  color: white;\n  text-align: center;\n  padding: 15px 10px;\n}\n\n.footer-container {\n  max-width: 1000px;\n  margin: 0 auto;\n}\n\n.form-container {\n  background-color: #fff;\n  padding: 2rem;\n  border-radius: 8px;\n  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);\n  width: 300px;\n}\n\ninput[type=\"text\"] {\n  width: 100%;\n  padding: 0.6rem;\n  border: 1px solid #ccc;\n  border-radius: 4px;\n  margin-bottom: 1rem;\n  transition: border-color 0.3s;\n}\n\ninput[type=\"text\"]:focus {\n  border-color: #007bff;\n  outline: none;\n}\n\nbutton {\n  width: 100%;\n  padding: 0.7rem;\n  background-color: #007bff;\n  color: #fff;\n  border: none;\n  border-radius: 4px;\n  font-size: 1rem;\n  cursor: pointer;\n  transition: background-color 0.3s;\n  margin-top: 0.5rem; \n}\n\nbutton:hover {\n  background-color: #0056b3;\n}\n\n  table { border-collapse: collapse; width: 100%; margin-top: 20px; }\n\n  th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }\n  \n  th { background-color: #f2f2f2; }\n\n      .mensagem {\n      background-color: #d4edda;\n      color: #155724;\n      border: 1px solid #c3e6cb;\n      padding: 20px 40px;\n      border-radius: 8px;\n      font-size: 1.5em;\n      text-align: center;\n      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);\n    }",
+        "output": "str",
+        "x": 670,
+        "y": 220,
+        "wires": [
+            [
+                "e646753f75f6c5a5"
+            ]
+        ]
+    },
+    {
+        "id": "26e5b17b643d7d10",
+        "type": "http in",
+        "z": "2892dd17678bb738",
+        "name": "",
+        "url": "/listar",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 80,
+        "y": 60,
+        "wires": [
+            [
+                "f946c2bc275ef40d"
+            ]
+        ]
+    },
+    {
+        "id": "cab1108754281b33",
+        "type": "http response",
+        "z": "2892dd17678bb738",
+        "name": "Created",
+        "statusCode": "",
+        "headers": {},
+        "x": 960,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "e6b87f5045ec900a",
+        "type": "mysql",
+        "z": "2892dd17678bb738",
+        "mydb": "32791eb0f38005dc",
+        "name": "",
+        "x": 680,
+        "y": 100,
+        "wires": [
+            [
+                "8526ee533a22e8e5"
+            ]
+        ]
+    },
+    {
+        "id": "ed326a0d4e56e5ad",
+        "type": "http in",
+        "z": "2892dd17678bb738",
+        "name": "",
+        "url": "/cadastrar",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 100,
+        "y": 160,
+        "wires": [
+            [
+                "2ff70f1ed4c72437"
+            ]
+        ]
+    },
+    {
+        "id": "2dc826f576c02f65",
+        "type": "function",
+        "z": "2892dd17678bb738",
+        "name": "Gravar",
+        "func": "let nome = msg.req.query?.nome;\n\nif (!nome) {\n    node.error(\"Parâmetro 'nome' ausente.\");\n    return null;\n}\n\nmsg.topic = \"INSERT INTO aluno (nome) VALUES (?)\";\nmsg.payload = [nome];\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 100,
+        "wires": [
+            [
+                "e6b87f5045ec900a"
+            ]
+        ]
+    },
+    {
+        "id": "f946c2bc275ef40d",
+        "type": "function",
+        "z": "2892dd17678bb738",
+        "name": "Listar",
+        "func": "msg.topic = \"select *from aluno\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 250,
+        "y": 60,
+        "wires": [
+            [
+                "21feef4fc4cb51aa"
+            ]
+        ]
+    },
+    {
+        "id": "21feef4fc4cb51aa",
+        "type": "mysql",
+        "z": "2892dd17678bb738",
+        "mydb": "32791eb0f38005dc",
+        "name": "",
+        "x": 420,
+        "y": 60,
+        "wires": [
+            [
+                "cab1108754281b33"
+            ]
+        ]
+    },
+    {
+        "id": "2ff70f1ed4c72437",
+        "type": "function",
+        "z": "2892dd17678bb738",
+        "name": "Validacao",
+        "func": "let nome = msg.req.query.nome\n\nif (nome != null) {\n    msg.erro = 0\n} else {\n   msg.erro = 1 \n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 160,
+        "wires": [
+            [
+                "47194c2e58f95013"
+            ]
+        ]
+    },
+    {
+        "id": "47194c2e58f95013",
+        "type": "switch",
+        "z": "2892dd17678bb738",
+        "name": "",
+        "property": "erro",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 160,
+        "wires": [
+            [
+                "2dc826f576c02f65"
+            ],
+            [
+                "0b3cf8e6e5cd12d4"
+            ]
+        ]
+    },
+    {
+        "id": "07f362913002fcde",
+        "type": "http response",
+        "z": "2892dd17678bb738",
+        "name": "Erro",
+        "statusCode": "400",
+        "headers": {},
+        "x": 830,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "8526ee533a22e8e5",
+        "type": "function",
+        "z": "2892dd17678bb738",
+        "name": "VerificaStatusCode",
+        "func": "// msg.payload é o resultado do banco\nconst result = msg.payload;\n\nif (result && result.affectedRows === 1) {\n  msg.statusCode = 201;\n  msg.headers = { 'Content-Type': 'application/json' };\n  msg.payload = {\n    message: 'Registro criado com sucesso',\n    id: result.insertId,\n    status: 'success'\n  };\n} else {\n  msg.statusCode = 500;\n  msg.headers = { 'Content-Type': 'application/json' };\n  msg.payload = {\n    message: 'Falha ao inserir o registro',\n    status: 'error'\n  };\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 850,
+        "y": 100,
+        "wires": [
+            [
+                "cab1108754281b33"
+            ]
+        ]
+    },
+    {
+        "id": "0b3cf8e6e5cd12d4",
+        "type": "function",
+        "z": "2892dd17678bb738",
+        "name": "StatusCode400",
+        "func": "msg.statusCode = 400;\nmsg.headers = { 'Content-Type': 'application/json' };\nmsg.payload = {\n    message: 'Campos obrigatórios sem preenchimento',\n    status: 'error'\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 220,
+        "wires": [
+            [
+                "07f362913002fcde"
+            ]
+        ]
+    },
+    {
+        "id": "6a85703d0292a2d6",
+        "type": "http in",
+        "z": "2892dd17678bb738",
+        "name": "",
+        "url": "/apagar_aluno/:id",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 320,
+        "wires": [
+            [
+                "327f86ad553b6c8b"
+            ]
+        ]
+    },
+    {
+        "id": "4c3bc83a7e0fad11",
+        "type": "mysql",
+        "z": "2892dd17678bb738",
+        "mydb": "32791eb0f38005dc",
+        "name": "",
+        "x": 520,
+        "y": 320,
+        "wires": [
+            [
+                "0f786a72d0e4a541"
+            ]
+        ]
+    },
+    {
+        "id": "327f86ad553b6c8b",
+        "type": "function",
+        "z": "2892dd17678bb738",
+        "name": "FuncaoApagar",
+        "func": "const id = msg.req.params.id; \n\nif (!id) {\n    msg.statusCode = 400;\n    msg.payload = { status: 'error', message: 'ID não informado' };\n    return msg;\n}\n\nmsg.topic = 'DELETE FROM aluno WHERE id = ?';\nmsg.payload = [id];\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 320,
+        "wires": [
+            [
+                "4c3bc83a7e0fad11"
+            ]
+        ]
+    },
+    {
+        "id": "0ac7f40bd9259e51",
+        "type": "http response",
+        "z": "2892dd17678bb738",
+        "name": "Deleted",
+        "statusCode": "",
+        "headers": {},
+        "x": 900,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "0f786a72d0e4a541",
+        "type": "function",
+        "z": "2892dd17678bb738",
+        "name": "function 10",
+        "func": "const result = msg.payload;\n\nif (result.affectedRows > 0) {\n    msg.statusCode = 200;\n    msg.headers = { 'Content-Type': 'application/json' };\n    msg.payload = {\n        status: '200',\n        message: 'Registro excluído com sucesso'\n    };\n} else {\n    msg.statusCode = 404;\n    msg.headers = { 'Content-Type': 'application/json' };\n    msg.payload = {\n        status: 'error',\n        message: 'Registro não encontrado'\n    };\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 320,
+        "wires": [
+            [
+                "0ac7f40bd9259e51"
+            ]
+        ]
+    }
+]
